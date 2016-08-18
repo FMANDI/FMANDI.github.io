@@ -6,16 +6,19 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: BIG DATA and CLOUD COMPUTING
+email: fmandizvidza@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a Big Data and Cloud Computing enthusiaist.
+  HADOOP , AWS (Amazon Web Services) , Microsoft AZURE are my current interests.
+  Currently studying for Certifications in those Technologies.
+  I have over 25 years of experience in the Information Technology Landscape.
+  System Design/Development (Financial Solutions and some Web Based applications), Project Leadership (PRINCE2 ,CAPM) , ITIL Foundation.
+  I enjoy learning and reading about latest Techonological Advancements.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://www.bidacloco.com" # the base hostname & protocol for your site
+twitter_username: fungimandi
+github_username:  fmandi
 
 # Build settings
 markdown: kramdown
